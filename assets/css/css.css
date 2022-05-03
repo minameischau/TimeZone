@@ -1,0 +1,9 @@
+.search__form {
+    width: 230px;
+    height: 30px;
+    background-color: aliceblue;
+    border: solid 1px #CCC;
+    border-radius: 20px;
+    text-align: end;
+    
+}
